@@ -3,9 +3,9 @@ toanphan19/toanphan19 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👋 Hi, I’m Toan.
-I'm a Software Engineer. An introvert. Self-proclaimed highly agreeable. Love automating and perfecting my crafts to the smallest details and sometimes doesn't know how to stop.
+### 👋 Hi, I’m Toan
+I'm a Software Engineer. An introvert. Self-proclaimed highly agreeable. Love automating and perfecting my crafts.
 
-You can find out more about me on my website at [toanphan.dev](https://toanphan.dev/).
+Also me (read from right to left):
 
-Have a happy day!
+<img src="https://storage.googleapis.com/public-personal/meme-anya-weekend-no-border.png" height="480px"/>
